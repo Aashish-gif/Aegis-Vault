@@ -328,11 +328,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📞 Support
 
-For support, email support@aegisvault.dev or open an issue in the repository.
-
----
 
 <div align="center">
 
